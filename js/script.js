@@ -13,3 +13,18 @@ closeBtn.onclick = () =>{
 window.onscroll = () =>{
     navbar.classList.remove('active');
 };
+
+function gotowhatsapp(){
+    var nome = document.getElementById("nome").value;
+    var email = document.getElementById("email").value;
+    var assunto = document.getElementById("assunto").value;
+    var mensagem = document.getElementById("mensagem").value;
+
+    var url = "https://wa.me/5511930491954?text="
+    + "Nome: " + nome + "%0a"
+    + "Email: " + email + "%0a"
+    + "Assunto: " + assunto + "%0a"
+    + "Mensagem: " + mensagem;
+
+    window.open(url, '_blank').focus();
+}
