@@ -665,6 +665,9 @@ section {
     color: var(--primary-color);
 }
 
+/* footer */
+
+/* whatsapp */
 .whats{
     position: fixed;
     bottom: 30px;
@@ -673,7 +676,11 @@ section {
 
 }
 
-/* footer */
+.fale-conosco{
+    font-size: 18px;
+}
+
+/* whatsapp */
 
 @media (max-width:991px){
     html{

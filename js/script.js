@@ -15,16 +15,16 @@ window.onscroll = () =>{
 };
 
 function gotowhatsapp(){
-    var name = document.getElementById("nome").value;
-    var phone = document.getElementById("email").value;
-    var email = document.getElementById("assunto").value;
-    var service = document.getElementById("mensagem").value;
+    var nome = document.getElementById("nome").value;
+    var email = document.getElementById("email").value;
+    var assunto = document.getElementById("assunto").value;
+    var mensagem = document.getElementById("mensagem").value;
 
-    var url = "https://wa.me/5511930491954"
-    + "Name: " + name + "%0a"
-    + "Phone: " + phone + "%0a"
+    var url = "https://wa.me/5511930491954?text="
+    + "Nome: " + nome + "%0a"
     + "Email: " + email + "%0a"
-    + "Service" + service;
+    + "Assunto: " + assunto + "%0a"
+    + "Mensagem: " + mensagem;
 
     window.open(url, '_blank').focus();
 }
