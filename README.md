@@ -2,7 +2,7 @@
 <br>
 
 <h2>Esse é um projeto de um website para salão de beleza (cabeleleiros e entre outros).</h2>
-<p>Neste projeto foi utilizado HTML, CSS, Javascript e algumas funções para se adequar ao obejetivo do site. Eu o encontrei em uma plataforma de vídeos na internet, onde o Desenvolvedor montava o código do completo zer, fui acompanhando e desenvolvendo conforme o meu gosto.
+<p>Neste projeto foi utilizado HTML, CSS, Javascript e algumas funções para se adequar ao obejetivo do site. Eu o encontrei em uma plataforma de vídeos na internet, onde o Desenvolvedor montava o código do completo zero, fui acompanhando e desenvolvendo conforme o meu gosto.
   Fiz algumas alterações tais como: <br>
   - troca de imagens.<br>
   - Ícone do whatsapp que direciona o cliente para uma conversa direta no número do estabelecimento.<br>
