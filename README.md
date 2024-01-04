@@ -7,6 +7,7 @@
   - troca de imagens.<br>
   - Ícone do whatsapp que direciona o cliente para uma conversa direta no número do estabelecimento.<br>
   - Enviar o Formulário direto para o número da empresa via whatsapp (utilizando funções para redirecionamento de mensagem).<br>
+  No código CSS foi utilizado o @media para deixar o site responsivo para telas menores.
 </p>
 <br>
 <h2>Tecnologias utilizadas:</h2>
