@@ -18,7 +18,7 @@
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript">
 <br>
 <br>
-Clique no link a baixo para acessar o site e interagir com ele:
+Clique no link a baixo para acessar o site:
 <br>
 <a href="https://website-salao-authentic.netlify.app/">https://website-salao-authentic.netlify.app/</a>
 <br>
