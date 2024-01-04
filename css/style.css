@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:1,300,400,400italic,500,700,700italic,900');
+@import url('https://fonts.googleapis.com/css2? family= Montserrat:wght@600 & family= Mukta:wght@300;700 & display=swap');
+
 
 :root {
     --main-color: #d7c7ae;
@@ -741,6 +743,11 @@ section {
 @media (max-width:450px){
     html{
         font-size: 50%;
+    }
+
+    h3{
+        font-family: 'Montserrat', sans-serif;
+        font-family: 'Mukta', sans-serif;
     }
 
     .home .content h3{
