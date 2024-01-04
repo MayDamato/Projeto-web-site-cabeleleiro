@@ -506,6 +506,10 @@ section {
    background-position: center; 
 }
 
+.visit .heading{
+    color: var(--main-color);
+}
+
 .visit .row{
     display: flex;
     align-items: center;
