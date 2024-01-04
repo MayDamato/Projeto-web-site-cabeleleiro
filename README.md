@@ -2,11 +2,11 @@
 <br>
 
 <h2>Esse é um projeto de um website para salão de beleza (cabeleleiros e entre outros).</h2>
-<p>Neste projeto foi utilizado HTML, CSS, Javascript e algumas funções e API para se adequar ao obejetivo do site. Eu o encontrei em uma plataforma de vídeos na internet, onde o Desenvolvedor montava o código do completo zero, fui acompanhando e desenvolvendo conforme o meu gosto.
+<p>Neste projeto foi utilizado HTML, CSS, Javascript e algumas funções para se adequar ao obejetivo do site. Eu o encontrei em uma plataforma de vídeos na internet, onde o Desenvolvedor montava o código do completo zero, fui acompanhando e desenvolvendo conforme o meu gosto.
   Fiz algumas alterações tais como: <br>
   - troca de imagens.<br>
   - Ícone do whatsapp que direciona o cliente para uma conversa direta no número do estabelecimento.<br>
-  - Enviar o Formulário direto para o número da empresa via whatsapp (utilizando API do whatsapp).<br>
+  - Enviar o Formulário direto para o número da empresa via whatsapp (utilizando funções para redirecionamento de mensagem).<br>
 </p>
 <br>
 <h2>Tecnologias utilizadas:</h2>
@@ -20,6 +20,7 @@
 <br>
 Clique no link a baixo para acessar o site e interagir com ele:
 <br>
+<a href="https://website-salao-authentic.netlify.app/">https://website-salao-authentic.netlify.app/</a>
 <br>
 <br> Abaixo temos alguns exemplos de como ficou a reponsividade do site:<br>
  <img src="https://github.com/MayDamato/Projeto-web-site-cabeleleiro/blob/main/assets/website%20manicure%20pc.png?raw=true" width="700" height="600">
